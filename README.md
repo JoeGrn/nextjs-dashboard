@@ -1,4 +1,4 @@
-## Next.js App Starter
+## Next.js Dashboard
 
 This is a simple next js dashboard application including: styling, optimisation, routing, authentication, data fetching, streaming, search and pagination.
 
